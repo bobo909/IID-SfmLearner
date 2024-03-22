@@ -10,7 +10,7 @@
 ## 🖼️ Prediction for a single image
 
 
-## ⏳ training
+## ⏳ Training
 
 
 ## 📄 Citation
