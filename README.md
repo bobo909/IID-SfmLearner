@@ -39,9 +39,9 @@ The directory of dataset structure is shown as follows:
           000001.png
 ```
 ## 🖼️ Prediction for a single image
-You can predict scaled disparity for a single image or a folder of images with:
+You can download our [best model](https://drive.google.com/drive/folders/1vOIJc78UGV2bsbUqbHeXnUpTvsz33p1U?usp=drive_link) and predict scaled disparity for a single image or a folder of images with:
 ```
-python test_simple.py --image_path <your_image_or_folder_path> --model_path <your_model_path> --output_path <path to save results>
+python test_simple.py --image_path <your_image_or_folder_path> --model_path <depth_model_path> --output_path <path to save results>
 ```
 
 ## ⏳ Training
